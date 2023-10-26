@@ -1,13 +1,13 @@
-/* Theme Aliquindoi*/
+/* Theme Aliquindoi  #D6718E*/
 
 main {
 	background: #AFD8DA;
-	color: #D6718E;
+	color: #A64D79;
 }
 
 a {
 	text-decoration: none;
-	color: #D6718E;
+	color: #A64D79;
 }
 
 a:hover {
@@ -15,11 +15,11 @@ a:hover {
 }
 
 .icons-social a {
-	color: #D6718E;
+	color: #A64D79;
 }
 
 .icons-social a svg path{
-	color: #D6718E;
+	color: #A64D79;
 }
 
 .icons-social a:hover{
